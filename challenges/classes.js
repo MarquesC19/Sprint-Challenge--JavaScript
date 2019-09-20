@@ -22,12 +22,12 @@ class CubeMaker extends CuboidCreater {
     const cuboidNew = new CuboidCreater({
         length:4,
         width:5,
-        height:5,
+        height:5
     })
 
         const cube1 = new cubeMaker({
         length:4,
-        width:4,
+        width:4
         })
 
 // Test your volume and surfaceArea methods by uncommenting the logs below:
